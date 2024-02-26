@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Select Java's release date.",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "correctAnswer" : "c"
+  },
+  {
+    "question": "Who created Java?",
+    "a": "Bill Gates",
+    "b": "Steve Jobs",
+    "c": "James Gosling",
+    "d": "Dennis Ritchie",
+    "correctAnswer" : "c"
+  },
+  {
+    "question": "Select Java's release date.",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "correctAnswer" : "c"
+  },
+  {
+    "question": "Who created Java?",
+    "a": "Bill Gates",
+    "b": "Steve Jobs",
+    "c": "James Gosling",
+    "d": "Dennis Ritchie",
+    "correctAnswer" : "c"
+  }
+]
